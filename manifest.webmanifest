@@ -6,7 +6,7 @@
   "display": "standalone",
   "background_color": "#100d0a",
   "theme_color": "#100d0a",
-  "description": "RPG de carreira para acompanhar cortes, chefes, XP e conquistas.",
+  "description": "RPG de carreira para acompanhar cortes, chefes, XP, habilidades e conquistas.",
   "icons": [
     {
       "src": "icon.svg",
