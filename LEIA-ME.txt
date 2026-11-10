@@ -1,0 +1,12 @@
+BARBER QUEST — PUBLICAÇÃO E INSTALAÇÃO
+
+O pacote está pronto para hospedagem estática. Ele ainda NÃO está publicado na internet.
+
+Para obter um endereço público e instalar no iPhone:
+1. Entre em uma plataforma de hospedagem estática (por exemplo, Netlify) e crie/acesse sua conta.
+2. Faça um novo deploy manual enviando a pasta descompactada deste pacote (a pasta contém index.html, manifest.webmanifest, sw.js e icon.svg).
+3. A plataforma fornecerá um endereço HTTPS. Abra esse endereço no Safari do iPhone.
+4. No Safari, toque em Compartilhar > Adicionar à Tela de Início.
+
+O HTTPS é necessário para que a instalação PWA e o funcionamento offline via service worker sejam habilitados.
+O progresso do jogo é armazenado localmente no navegador/dispositivo. Use o recurso EXPORTAR BACKUP dentro do jogo para guardar sua evolução antes de trocar de navegador/aparelho ou limpar os dados.
